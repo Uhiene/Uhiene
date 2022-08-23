@@ -36,8 +36,8 @@
    </a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daltonic&show_icons=true&locale=en&layout=compact" alt="daltonic" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhiene&show_icons=true&locale=en&layout=compact" alt="uhiene" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daltonic&show_icons=true&locale=en" alt="daltonic" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uhiene&show_icons=true&locale=en" alt="uhiene" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daltonic&" alt="daltonic" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uhiene&" alt="uhiene" /></p>
