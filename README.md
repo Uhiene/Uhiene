@@ -1,4 +1,3 @@
-![Banner](https://i.ibb.co/rZRJvzS/online-classes.png)
 
 <h1 align="center">Hi 👋, I'm Uhiene Princess</h1>
 <h3 align="center">I am a Web developer currently specializing in frontend development .</h3>
