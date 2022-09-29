@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Uhiene Princess</h1>
 <h3 align="center">I am a Web developer currently specializing in frontend development .</h3>
 
-- 🌱 I’m learning **Tailwind CSS**
+- 🌱 **Tailwind CSS** boss
 
 - 👨‍💻 All of my projects are available HERE.
 
