@@ -6,7 +6,9 @@
 
 - 👨‍💻 All of my projects are available HERE.
 
-- 📝 I regularly write articles.
+- 📝 I love to code and teach.
+
+- A lover of React.
 
 - 💬 Ask me about **JavaScript**
 
