@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/9b2qnyR/Twitter-Ojo-1500px-500px.png)
 
 <h1 align="center">Hi 👋, I'm Uhiene Princess</h1>
-<h3 align="center">I am a Web developer currently specializing in frontend development .</h3>
+<h3 align="center">A humble and brilliant front-end developer, passionate and ready to help you bring your software ideas to life.</h3>
 
 - 🌱 **Tailwind CSS** boss
 
@@ -9,7 +9,7 @@
 
 - 📝 I love to code and teach.
 
-- A lover of React.
+- 🚀 Currently hacking on **React and Solidity** projects.
 
 - 💬 Ask me about **JavaScript**
 
