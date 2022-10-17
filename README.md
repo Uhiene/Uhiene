@@ -1,4 +1,4 @@
-![Banner](https://ibb.co/v3mJ1L2)
+![Banner](https://i.ibb.co/9b2qnyR/Twitter-Ojo-1500px-500px.png)
 
 <h1 align="center">Hi 👋, I'm Uhiene Princess</h1>
 <h3 align="center">I am a Web developer currently specializing in frontend development .</h3>
